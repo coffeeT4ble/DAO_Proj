@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "user": "root",
+  "password": "mojesupersecureheslo123",
+  "database": "DAO_Proj",
+  "port": "3306"
+}

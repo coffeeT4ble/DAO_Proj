@@ -1,5 +1,5 @@
-CREATE DATABASE gym_system;
-USE gym_system;
+CREATE DATABASE DAO_Proj;
+USE DAO_Proj;
 
 -- 1. Users (accounts)
 CREATE TABLE users (
